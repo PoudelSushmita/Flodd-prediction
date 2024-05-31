@@ -7,4 +7,10 @@ def helper_function():
     print("This is helper function")
 
 if __name__ == '__main__':
+<<<<<<< Updated upstream
     main()
+=======
+    main()
+
+# added new code here
+>>>>>>> Stashed changes
